@@ -1,0 +1,11 @@
+
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(Í›â‰úÿÿÿÿ8ôæòÆ®0
+b
+java:S1117D"ERename "sqlSessionFactory" which hides the field declared at line 20.(Œø´à8÷æòÆ®0
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(Í›â‰úÿÿÿÿ8úæòÆ®0
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(Ìıà8şæòÆ®0
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(Ìıà8ƒçòÆ®0
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(Ìıà8…çòÆ®0
+X	java:S125u"<This block of commented-out lines of code should be removed.(¹‹²í8ˆçòÆ®0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8‹çòÆ®0

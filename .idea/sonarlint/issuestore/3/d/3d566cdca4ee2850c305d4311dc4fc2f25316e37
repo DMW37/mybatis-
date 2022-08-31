@@ -1,0 +1,20 @@
+
+b	java:S112ä"FDefine and throw a dedicated exception instead of using a generic one.(üû§Q8®º™Ç®0
+c	java:S112÷"FDefine and throw a dedicated exception instead of using a generic one.(Ë ù8®º™Ç®0
+c	java:S112‡"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ³¯“8¯º™Ç®0
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ƒæÃ8¯º™Ç®0
+h	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(Ì›àœüÿÿÿÿ8°º™Ç®0
+h	java:S112¨"FDefine and throw a dedicated exception instead of using a generic one.(ßÃ…¬úÿÿÿÿ8±º™Ç®0
+h	java:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(½Ô‡ùüÿÿÿÿ8±º™Ç®0
+b	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(¢²Ğd8³º™Ç®0
+c	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(­çáë8´º™Ç®0
+k
+java:S1192Ä"HDefine a constant instead of duplicating this literal "package" 3 times.(›–ƒĞşÿÿÿÿ8¶º™Ç®0
+u
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çˆ›‡ùÿÿÿÿ8¼™Ç®0
+]
+java:S1117¸"?Rename "environment" which hides the field declared at line 63.(¸­®³8®¼™Ç®0
+p
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼÷Á•8´¼™Ç®0
+p
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(­çáë8¹¼™Ç®0

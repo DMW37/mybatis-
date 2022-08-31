@@ -1,0 +1,22 @@
+
+j
+java:S1192£"LDefine a constant instead of duplicating this literal "typeHandler" 3 times.(È›Ÿ8Û´ÿÇ®0
+l
+java:S1192 "IDefine a constant instead of duplicating this literal "jdbcType" 3 times.(Ğ’Îşÿÿÿÿ8â´ÿÇ®0
+l
+java:S1192"IDefine a constant instead of duplicating this literal "property" 4 times.(®×‹îşÿÿÿÿ8ä´ÿÇ®0
+l
+java:S1192Ÿ"IDefine a constant instead of duplicating this literal "javaType" 5 times.(¦• Ìÿÿÿÿÿ8å´ÿÇ®0
+m
+java:S1192¡"JDefine a constant instead of duplicating this literal "resultMap" 6 times.(¹Áÿíøÿÿÿÿ8æ´ÿÇ®0
+h
+java:S1192‚"JDefine a constant instead of duplicating this literal "namespace" 3 times.(úœö¸8ç´ÿÇ®0
+W
+java:S1133D"5Do not forget to remove this deprecated code someday.(·®õÅûÿÿÿÿ8½¾ÿÇ®0
+J
+java:S1123D"(Add the missing @deprecated Javadoc tag.(·®õÅûÿÿÿÿ8Ä¾ÿÇ®0
+W
+java:S1133J"5Do not forget to remove this deprecated code someday.(Ñ­Èûÿÿÿÿ8É¾ÿÇ®0
+J
+java:S1123J"(Add the missing @deprecated Javadoc tag.(Ñ­Èûÿÿÿÿ8Ê¾ÿÇ®0
+X	java:S125|"<This block of commented-out lines of code should be removed.(½ğßÌ8é¾ÿÇ®0
